@@ -16,7 +16,7 @@ Access to Amazon product review dataset (CSV or JSON format)
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/sentiment_analysis.git
+    git clone https://github.com/shruti280401/sentiment_analysis.git
     ```
 
 2. Navigate to the project directory:

@@ -16,12 +16,12 @@ Access to Amazon product review dataset (CSV or JSON format)
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/amazon-sentiment-analysis.git
+    git clone https://github.com/yourusername/sentiment_analysis.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd amazon-sentiment-analysis
+    cd sentiment_analysis
     ```
 
 3. Install the required Python libraries:
@@ -30,7 +30,7 @@ Access to Amazon product review dataset (CSV or JSON format)
     ```
 
 
-**Author:** [Shruti Gumgaonkar](https://github.com/yourusername)
+**Author:** [Shruti Gumgaonkar](https://github.com/shruti280401)
 
 
 
